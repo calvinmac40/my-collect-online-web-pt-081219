@@ -7,10 +7,3 @@ def my_collect(array)
 end
 new_array
 end 
-  
-# my_collect(languages) do |language| 
-#   language.upcase
-# end
-# my_collect(languages) do |language|
-#       language.upcase
-#     end
